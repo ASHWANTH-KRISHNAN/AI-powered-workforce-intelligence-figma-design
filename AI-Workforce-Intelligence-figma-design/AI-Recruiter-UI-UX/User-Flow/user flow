@@ -1,0 +1,20 @@
+
+                    AI RECRUITER
+                         │
+          ┌──────────────┼──────────────┐
+          ↓              ↓              ↓
+      Candidate       Recruiter        Admin
+          │              │              │
+          ↓              ↓              ↓
+      Dashboard      Dashboard      Dashboard
+          │              │              │
+      Resume          Job Post       Users
+      Analysis        Creation       Management
+          │              │              │
+      Job Match       Candidate      Analytics
+          │            Screening
+          ↓              ↓
+       Apply         Interview
+
+
+       
